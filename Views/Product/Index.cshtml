@@ -1,0 +1,7 @@
+
+@model List<Product>
+
+@foreach (Product prd in Model)
+{
+    <partial name="_ProductCard" model="@prd" />
+}

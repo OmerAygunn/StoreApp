@@ -1,0 +1,9 @@
+@model IEnumerable<Category>
+
+<ul class="list-group">
+    
+        @foreach (var category in Model)
+        {
+            <li>@category.CategoryName</li>
+        }
+</ul>

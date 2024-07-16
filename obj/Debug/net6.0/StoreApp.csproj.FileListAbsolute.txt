@@ -56,3 +56,9 @@ D:\.netCore\Store\StoreApp\obj\Debug\net6.0\StoreApp.csproj.AssemblyReference.ca
 D:\.netCore\Store\StoreApp\obj\Debug\net6.0\StoreApp.csproj.Up2Date
 D:\.netCore\Store\StoreApp\bin\Debug\net6.0\StoreApp.staticwebassets.runtime.json
 D:\.netCore\Store\StoreApp\bin\Debug\net6.0\libman.json
+D:\.netCore\Store\StoreApp\bin\Debug\net6.0\Entities.dll
+D:\.netCore\Store\StoreApp\bin\Debug\net6.0\Entities.pdb
+D:\.netCore\Store\StoreApp\bin\Debug\net6.0\Repositories.dll
+D:\.netCore\Store\StoreApp\bin\Debug\net6.0\Repositories.pdb
+D:\.netCore\Store\StoreApp\bin\Debug\net6.0\Services.dll
+D:\.netCore\Store\StoreApp\bin\Debug\net6.0\Services.pdb
